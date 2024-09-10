@@ -1,0 +1,5 @@
+// config.js
+module.exports = {
+    jwtSecret: '8c2d84992c96f61806d1dfaf4591546dd0c03688a682c961e04537f247d7ff60eb2baae189c41f67228922ed3e7e4be73199a342587808601a5fc8b087ff12f8'
+  };
+  
