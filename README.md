@@ -1,1 +1,1 @@
-# social-media-app
+# SOCIAL MEDIA MERN APP
