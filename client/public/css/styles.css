@@ -1,15 +1,15 @@
 .bg-default-image{
     background-image: url("/images/default.jpg");
     background-size: 100%;
-    height: 150px;
-    text-shadow: 2px 2px 8px #000;
+    height: 175px;
+    text-shadow: 3px 3px 9px #000;
 }
 .logo{
-    text-shadow: 2px 2px navy;
+    text-shadow: 4px 4px navy;
 }
 
 .active{
-    background-color: navy;
+    background-color: Blue;
 }
 
 .pointer {
